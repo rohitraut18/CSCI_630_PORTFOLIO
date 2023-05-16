@@ -39,7 +39,7 @@ I collaborated closely with the testing team to enhance my understanding of the 
 
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|
-| Commit | https://github.com/ChicoState/PantryNode/pull/219#issue-1689767068 | Added test cases for frontend Login page and merged into main. This code tests the successful submission of a login form using React Testing Library and a Redux store. |
+| Pull Request | https://github.com/ChicoState/PantryNode/pull/219#issue-1689767068 | Added test cases for frontend Login page and committed into main. This code tests the successful submission of a login form using React Testing Library and a Redux store. |
 | CodeReview | https://github.com/ChicoState/PantryNode/pull/225#pullrequestreview-1408421184 | Reviewed the test cases for Sale table which was made by Abhinay Dhruva.  |
 
 

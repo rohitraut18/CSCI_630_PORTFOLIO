@@ -1,3 +1,5 @@
+# CSCI 630 Portfolio. 
+
 The contributions I made to the 'Pantry Node' open-source project during four sprints, which commenced on February 27, 2023, are compiled in this repository.
 
 ## Highlights

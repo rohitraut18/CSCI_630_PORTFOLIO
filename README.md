@@ -26,7 +26,7 @@ The contributions I made to the 'Pantry Node' open-source project during five sp
 
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|
-| Discussion | https://github.com/ChicoState/PantryNode/issues/20 | Discussed the testing of the dependabot alerts with the testing team consisting of Manohar Mendan, Manavi Ghorpade and Sachin Prasad |
+| Discussion | https://github.com/ChicoState/PantryNode/issues/20 | Discussed the testing of the dependabot alerts with the testing team consisting of Manohar Mendan, Manavi Ghorpade and Sachin Prasad |  
 I collaborated closely with the testing team to enhance my understanding of the verification process, as I encountered challenges in its implementation.
 
 

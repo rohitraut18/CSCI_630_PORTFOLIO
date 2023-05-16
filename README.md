@@ -24,6 +24,9 @@ The contributions I made to the 'Pantry Node' open-source project during five sp
 
 ### **Sprint 2 (March 21 - April 3):**  
 
+| Type       | Link                     | Notes                                           |
+|------------|--------------------------|-------------------------------------------------|
+| Discussion | https://github.com/ChicoState/PantryNode/issues/20 | Discussed the testing of the dependabot alerts with the testing team consisting of Manohar Mendan, Manavi Ghorpade and Sachin Prasad |
 I collaborated closely with the testing team to enhance my understanding of the verification process, as I encountered challenges in its implementation.
 
 
@@ -31,7 +34,8 @@ I collaborated closely with the testing team to enhance my understanding of the 
 
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|
-| CodeReview | https://github.com/ChicoState/PantryNode/pull/17#issuecomment-1499974358 | Reviewed the update of the Bump bcrypt from 4.0.1 to 5.0.0 |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/17#issuecomment-1499974358 | Reviewed the update of the Bump bcrypt from 4.0.1 to 5.0.0 |
+| Commit | https://github.com/ChicoState/PantryNode/pull/107 | Reviewed and committed the update of the Bump bcrypt from 4.0.1 to 5.0.0 in /backend |
 | Code Review | https://github.com/ChicoState/PantryNode/pull/186#pullrequestreview-1398759415 | Reviewed the following test case: Success. These tests aim to confirm that the 'Success' component is working as intended and rendering the expected content. This PR was created by Rohit Karhadkar.|
 | Commit | https://github.com/ChicoState/PantryNode/pull/186#issuecomment-1521152608 | Added one test file for testing the index component.! Coverage is 100%. This test case checks if the Index page renders the sorted feed list and sorted expired feed list. It uses mock data for API calls and checks for the presence of specific text on the page. |
 
@@ -40,14 +44,14 @@ I collaborated closely with the testing team to enhance my understanding of the 
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|
 | Pull Request | https://github.com/ChicoState/PantryNode/pull/219#issue-1689767068 | Added test cases for frontend Login page and committed into main. This code tests the successful submission of a login form using React Testing Library and a Redux store. |
-| CodeReview | https://github.com/ChicoState/PantryNode/pull/225#pullrequestreview-1408421184 | Reviewed the test cases for Sale table which was made by Abhinay Dhruva.  |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/225#pullrequestreview-1408421184 | Reviewed the test cases for Sale table which was made by Abhinay Dhruva.  |
 
 
 ### **Sprint 5 (May 2 - 15):**
 
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|
-| CodeReview | https://github.com/ChicoState/PantryNode/pull/229#pullrequestreview-1427949284 | Reviewed the feed testing for frontend committed by Manavi Ghorpade |
-| CodeReview | https://github.com/ChicoState/PantryNode/pull/242#event-9237400841 | Approved the Feed testing for frontend after the error were resolved |
-| CodeReview | https://github.com/ChicoState/PantryNode/pull/245#event-9239373812 | Reviewed and approved the test case for header component which was committed by Manohar Mendan |
-| CodeReview | https://github.com/ChicoState/PantryNode/pull/246#event-9239460563 | Reviewed and Approved the test cases for Layout and Register component which was committed by Tanvi Mahajan |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/229#pullrequestreview-1427949284 | Reviewed the feed testing for frontend committed by Manavi Ghorpade |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/242#event-9237400841 | Approved the Feed testing for frontend after the error were resolved |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/245#event-9239373812 | Reviewed and approved the test case for header component which was committed by Manohar Mendan |
+| Code Review | https://github.com/ChicoState/PantryNode/pull/246#event-9239460563 | Reviewed and Approved the test cases for Layout and Register component which was committed by Tanvi Mahajan |

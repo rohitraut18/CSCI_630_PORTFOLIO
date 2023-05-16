@@ -5,7 +5,8 @@ The contributions I made to the 'Pantry Node' open-source project during five sp
 ## Highlights
 - Coordinated and worked with the testing team and reviewed the tests and the dependabot alerts.
 - Contributed to the front end testing of the Login Page by providing a test case file. (https://github.com/ChicoState/PantryNode/pull/219#issue-1689767068)
-- Performed Code Reviews for front end testing by crosschecking the errors and approving the code changes.
+- Performed Code Reviews for front end Success component and added a test case file for the index component. (https://github.com/ChicoState/PantryNode/pull/186#issuecomment-1521152608)
+- Created a Pull Request for testing the Login page component of the frontend and gave 100% coverage. (https://github.com/ChicoState/PantryNode/pull/219#issue-1689767068) 
 
 
 ## TimeLine  

@@ -9,7 +9,7 @@ The contributions I made to the 'Pantry Node' open-source project during four sp
 
 
 ## TimeLine  
-**Sprint 1 (February 28 - March 20)**  
+### **Sprint 1 (February 28 - March 20)**  
 
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|
@@ -22,12 +22,12 @@ The contributions I made to the 'Pantry Node' open-source project during four sp
 | Code Review | https://github.com/ChicoState/PantryNode/pull/8 | Reviewed the update of the bump tar from 4.4.13 to 4.4.19 |
 
 
-**Sprint 2 (March 21 - April 3)**  
+### **Sprint 2 (March 21 - April 3):**  
 
 I collaborated closely with the testing team to enhance my understanding of the verification process, as I encountered challenges in its implementation.
 
 
-**Sprint 3 (April 4 - 17)** 
+### **Sprint 3 (April 4 - 17):** 
 
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|
@@ -35,7 +35,7 @@ I collaborated closely with the testing team to enhance my understanding of the 
 | Code Review | https://github.com/ChicoState/PantryNode/pull/186#pullrequestreview-1398759415 | Reviewed the following test case: Success. These tests aim to confirm that the 'Success' component is working as intended and rendering the expected content. This PR was created by Rohit Karhadkar.|
 | Commit | https://github.com/ChicoState/PantryNode/pull/186#issuecomment-1521152608 | Added one test file for testing the index component.! Coverage is 100%. This test case checks if the Index page renders the sorted feed list and sorted expired feed list. It uses mock data for API calls and checks for the presence of specific text on the page. |
 
-**Sprint 4 (April 18 - May 1)**
+### **Sprint 4 (April 18 - May 1):**
 
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|
@@ -43,7 +43,7 @@ I collaborated closely with the testing team to enhance my understanding of the 
 | CodeReview | https://github.com/ChicoState/PantryNode/pull/225#pullrequestreview-1408421184 | Reviewed the test cases for Sale table which was made by Abhinay Dhruva.  |
 
 
-**Sprint 5 (May 2 - 15)**
+### **Sprint 5 (May 2 - 15):**
 
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|

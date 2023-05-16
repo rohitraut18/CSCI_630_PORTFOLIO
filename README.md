@@ -24,10 +24,11 @@ The contributions I made to the 'Pantry Node' open-source project during five sp
 
 ### **Sprint 2 (March 21 - April 3):**  
 
+I collaborated closely with the testing team to enhance my understanding of the verification process, as I encountered challenges in its implementation.
+
 | Type       | Link                     | Notes                                           |
 |------------|--------------------------|-------------------------------------------------|
 | Discussion | https://github.com/ChicoState/PantryNode/issues/20 | Discussed the testing of the dependabot alerts with the testing team consisting of Manohar Mendan, Manavi Ghorpade and Sachin Prasad |  
-I collaborated closely with the testing team to enhance my understanding of the verification process, as I encountered challenges in its implementation.
 
 
 ### **Sprint 3 (April 4 - 17):** 
